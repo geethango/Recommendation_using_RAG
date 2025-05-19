@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Chat with Video Bot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+    }
+    h2, h3 {
+      color: #333;
+    }
+    #query {
+      width: 400px;
+      padding: 8px;
+      font-size: 16px;
+    }
+    #submitBtn {
+      padding: 8px 16px;
+      font-size: 16px;
+    }
+    #response {
+      background: #f4f4f4;
+      padding: 10px;
+      border: 1px solid #ccc;
+      white-space: pre-wrap; /* preserve line breaks and wrapping */
+      margin-top: 10px;
+      max-width: 600px;
+      min-height: 100px;
+    }
+    #sources {
+      margin-top: 10px;
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h2>Ask a Question</h2>
+  <form id="chatForm">
+    <label for="query">Your question:</label><br />
+    <input type="text" id="query" name="query" required autofocus /><br /><br />
+    <input type="submit" value="Ask" id="submitBtn" />
+  </form>
+
+  <h3>Answer:</h3>
+  <pre id="response">Waiting for your question...</pre>
+  <div id="sources"></div>
+
+  <script>
+    const form = document.getElementById("chatForm");
+    const responseBox = document.getElementById("response");
+    const sourcesBox = document.getElementById("sources");
+    const queryInput = document.getElementById("query");
+    const submitBtn = document.getElementById("submitBtn");
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const query = queryInput.value.trim();
+      if (!query) return;
+
+      responseBox.textContent = "Thinking...";
+      sourcesBox.textContent = "";
+      submitBtn.disabled = true;
+      submitBtn.value = "Loading...";
+
+      try {
+        const response = await fetch("/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ query }),
+        });
+
+        if (!response.ok) {
+          throw new Error(`Server error: ${response.status}`);
+        }
+
+        const result = await response.json();
+        console.log("result",result)
+        if (result.answer) {
+          responseBox.textContent = result.answer;
+          if (result.sources && result.sources.length > 0) {
+            sourcesBox.textContent = "Sources: " + result.sources.join(", ");
+          } else {
+            sourcesBox.textContent = "";
+          }
+        } else if (result.error) {
+          responseBox.textContent = "Error: " + result.error;
+          sourcesBox.textContent = "";
+        } else {
+          responseBox.textContent = "No response received.";
+          sourcesBox.textContent = "";
+        }
+      } catch (err) {
+        responseBox.textContent = "Error: " + err.message;
+        sourcesBox.textContent = "";
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.value = "Ask";
+        queryInput.value = "";
+        queryInput.focus();
+      }
+    });
+  </script>
+</body>
+</html>

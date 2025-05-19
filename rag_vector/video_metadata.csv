@@ -1,0 +1,101 @@
+id,title,language,topics,difficulty,prerequisites,file_name
+video001,Python Loops Introduction,Python,"loops,iteration,for,while",beginner,"variables,basic syntax",python_loops_intro.mp4
+video002,Python List Comprehensions,Python,"lists,comprehensions,iteration",intermediate,"loops,variables,lists",python_list_comprehensions.mp4
+video003,Python Functions Basics,Python,"functions,return,parameters",beginner,"variables,data types",python_functions.mp4
+video004,Python Object Oriented Programming,Python,"classes,objects,inheritance,oop",intermediate,"functions,variables",python_oop.mp4
+video005,Python Decorators,Python,"decorators,functions,advanced",advanced,"functions,oop",python_decorators.mp4
+video006,JavaScript Variables,JavaScript,"variables,let,const,var",beginner,,js_variables.mp4
+video007,JavaScript DOM Manipulation,JavaScript,"dom,selectors,events",intermediate,"variables,functions,html",js_dom.mp4
+video008,JavaScript Arrow Functions,JavaScript,"functions,arrow functions,lambda",intermediate,"functions,variables",js_arrow_functions.mp4
+video009,JavaScript Promises,JavaScript,"promises,async,callbacks",advanced,"functions,callbacks",js_promises.mp4
+video010,HTML Basic Structure,HTML,"structure,tags,elements",beginner,,html_basics.mp4
+video011,HTML Forms,HTML,"forms,input,validation",intermediate,basic html,html_forms.mp4
+video012,HTML Semantic Elements,HTML,"semantic,accessibility,structure",intermediate,basic html,html_semantic.mp4
+video013,CSS Selectors,CSS,"selectors,specificity",beginner,html basics,css_selectors.mp4
+video014,CSS Flexbox Layout,CSS,"flexbox,layout,responsive",intermediate,"css basics,selectors",css_flexbox.mp4
+video015,CSS Grid Layout,CSS,"grid,layout,responsive",intermediate,"css basics,selectors",css_grid.mp4
+video016,Python Flask Introduction,Python,"flask,web,framework",intermediate,"python basics,functions",python_flask_intro.mp4
+video017,JavaScript React Basics,JavaScript,"react,components,jsx",advanced,"javascript,dom,functions",js_react_basics.mp4
+video018,HTML5 Canvas API,HTML,"canvas,drawing,animation",advanced,"html,javascript",html_canvas.mp4
+video019,Python API Requests,Python,"api,requests,json",intermediate,"functions,dictionaries",python_api_requests.mp4
+video020,JavaScript Fetch API,JavaScript,"fetch,api,promises",intermediate,"promises,functions",js_fetch_api.mp4
+video021,Python API Request,Python,"API,",advanced,"variable,function,",FastAPI.mp4
+video022,Python for loop,Python,"loop,nested for loop",intermediate,"variable,list,tuple ",for loop.mp4
+video023,graphics using python turtle,Python,"python turtle,graphics",intermediate,"variable ,functions",python_turtle.mp4
+video024,if__name__python,Python,main function,beginner,,if __name__main for python .mp4
+video025,Lambda Function,Python,lambda function,intermediate,"variable ,functions",lambda function.mp4
+video026,module package,Python,module,intermediate,"variable, function, loop",module package library.mp4
+video027,python datatypes,Python,datatypes,beginner,,python datatypes.mp4
+video028,file Handling,Python,files,intermediate,"variable, function, loop",python_files.mp4
+video029,recursion function in python,Python,recursion,advanced,"variable, function, loop",recursion.mp4
+video030,C programming Exercise,C,"multiplication,operators,input/output",beginner,"variables,arithmetic",c_multiplication_exercise.mp4
+video031,Addition of Two Number Program in C,C,"addition,input/output,operators",beginner,"variables,basic syntax",c_addition_two_numbers.mp4
+video032,C language tutorial - C pattern programming,C,"patterns,nested loops",intermediate,"loops,printing",c_pattern_tutorial.mp4
+video033,C language first program - Hello World,C,"hello world,basics,output",beginner,"syntax,compilation",c_hello_world.mp4
+video034,Check if the Given Number is Odd or Even in C,C,"conditionals,modulus,logic",beginner,"variables,if-else",c_odd_even_check.mp4
+video035,Printing Star Pattern using C Programming,C,"patterns,nested loops",intermediate,"loops,printing",c_star_pattern_printing.mp4
+video036,Satisfying ASCII Animation with C,C,"ascii,animation,graphics",intermediate,"loops,output",c_ascii_animation.mp4
+video037,The do-while Loop in C,C,"do-while,loops,iteration",beginner,"loops,syntax",c_do_while_loop.mp4
+video038,Try this with C language - Pattern Example,C,"patterns,loops",intermediate,"loops,printing",c_pattern_example.mp4
+video039,While Loop in C - Print Natural Numbers,C,"while loop,iteration,numbers",beginner,"variables,loops",c_while_loop_natural_numbers.mp4
+video040,HTML Tables Deep Dive,HTML,"tables,rows,columns",intermediate,basic html,html_tables.mp4
+video041,HTML Lists Explained,HTML,"lists,ordered,unordered",beginner,,html_lists.mp4
+video042,HTML Images and Media,HTML,"images,video,audio,media",intermediate,basic html,html_images_media.mp4
+video043,HTML Links and Navigation,HTML,"anchors,hyperlinks,navigation",beginner,,html_links_navigation.mp4
+video044,HTML iframes Usage,HTML,"iframes,embedding,web content",intermediate,basic html,html_iframes.mp4
+video045,HTML Meta Tags,HTML,"meta,seo,head",intermediate,basic html,html_meta_tags.mp4
+video046,Quick Tip: HTML Button Tag,HTML,"buttons,click,submit",beginner,basic html,html_button_tag_short.mp4
+video047,HTML Entities in 60 Seconds,HTML,"entities,special characters",beginner,basic html,html_entities_short.mp4
+video048,What is the HTML `<fieldset>` Tag?,HTML,"forms,fieldset,grouping",intermediate,html forms,html_fieldset_short.mp4
+video049,HTML Inline vs Block Elements,HTML,"inline,block,layout",intermediate,basic html,html_inline_block_short.mp4
+video050,Using the `<abbr>` Tag in HTML,HTML,"abbreviation,tooltip,semantic",beginner,basic html,html_abbr_tag_short.mp4
+video051,HTML `<progress>` Tag in 60 Seconds,HTML,"progress,loading,bar",intermediate,basic html,html_progress_tag_short.mp4
+video052,HTML Quotation & Citation Elements,HTML,"cite,blockquote,q",beginner,basic html,html_quotation_citation_short.mp4
+video053,Pointers in C,C,"pointers,address,memory",advanced,"variables,functions",c_pointers.mp4
+video054,Dynamic Memory Allocation in C,C,"malloc,calloc,memory",advanced,"pointers,arrays",c_dynamic_memory.mp4
+video055,Understanding C Header Files,C,"header,modular code",intermediate,"functions,preprocessor",c_header_files.mp4
+video056,2D Arrays in C,C,"arrays,nested loops",intermediate,"arrays,loops",c_2d_arrays.mp4
+video057,Understanding Unions in C,C,"union,memory,data types",intermediate,"structures,variables",c_unions_tutorial.mp4
+video058,C Arrays usage,C,"arrays,indexing,iteration",intermediate,"variables,loops",c_arrays_usage.mp4
+video059,C typedef Keyword Explained,C,"typedef,custom types,alias",intermediate,"variables,data types",c_typedef_keyword.mp4
+video060,Assignment Operators in C,C,"assignment,operators,shorthand",beginner,"variables,arithmetic",c_assignment_operators.mp4
+video061,How to Use scanf in C,C,"scanf,input,format specifiers",beginner,"variables,basic syntax",c_scanf_input.mp4
+video062,Using realloc in C,C,"realloc,dynamic memory,resizing",advanced,"malloc,pointers",c_realloc_usage.mp4
+video063,Java basics,Java,java,beginner,,java_basics.mp4
+video064, java operators,Java,operators,intermediate,variables,java_operators.mp4
+video065,java Arrays,Java,arrays,intermediate,variables,java_arrays.mp4
+video066,Java switch,Java,switch,intermediate,"functions,variables",java_switch.mp4
+video067,Java  Type Casting,Java,"type casting,datatype ",advanced,"variable,functions,",java_typecasting.mp4
+video068,Java Data Types,Java,"variables,short ,double",intermediate,variable,java_datatypes.mp4
+video069,Java constructor,Java,"constructor,file,class",advanced,"variable,functions,",java_constructur.mp4
+video070,Java lamda,Java,"lamda expresion ,function ,passing arguments",advanced,"variable,functions,",lamda_java.mp4
+video071,java variable,Java,"variables,declaration of variable",beginner,,java_variable.mp4
+video072,java overloading and overiding,Java,"inheritance,polymorphism",advanced,"classes,objects",overloadind_and_overdiding_java.mp4
+video073,java recursive function,Java,function,intermediate,"variable,functions,",recursive_function_java.mp4
+video074,java string function,Java,"string,function",intermediate,variables,string_functions_ java.mp4
+video075,Java oops,Java,"class,object",intermediate,"variable,functions,",oops_java .mp4
+video076,Java loops,Java,"for ,while,do while",intermediate,"variable,functions,",loops_java .mp4
+video077,Java string immutable,Java,string,intermediate,"variable,functions,",string_java.mp4
+video078,Java Exception Handlng,Java,"exception,error ",advanced,"function ,loop",exeption_handlng_java.mp4
+video079,Java data structres,Java,"data structure,set,hashset",advanced,"function ,loop",java_data_structres.mp4
+video080,Java modifiers,Java,"class,private,protected,public,Inheretence",advanced,"classs,objects",java_modifiers.mp4
+video081,Java packages,Java,"class,folder,database",advanced,"classes,objects",java_packages.mp4
+video082,Java comments,Java,comment,beginner,,java_comments.mp4
+video083,Java File Handling,Java,"file,read,write",intermediate,"variables,functions",java_files.mp4
+video084,JavaScript Event Loop,JavaScript,"event loop,concurrency,asynchronous",advanced,"callbacks,promises",js_event_loop.mp4
+video085,JavaScript Closures Explained,JavaScript,"closures,functions,scope",intermediate,"functions,variables",js_closures.mp4
+video086,JavaScript Hoisting,JavaScript,"hoisting,variables,functions",intermediate,"variables,functions",js_hoisting.mp4
+video087,JavaScript Spread and Rest Operators,JavaScript,"spread,rest,arrays,objects",intermediate,"arrays,functions",js_spread_rest.mp4
+video088,JavaScript Map and Set,JavaScript,"map,set,collections",intermediate,"arrays,objects",js_map_set.mp4
+video089,JavaScript Async Await,JavaScript,"async,await,asynchronous",advanced,"promises,functions",js_async_await.mp4
+video090,JavaScript Error Handling with try-catch,JavaScript,"error handling,try-catch,exceptions",intermediate,"functions,variables",js_try_catch.mp4
+video091,JavaScript Prototypes and Inheritance,JavaScript,"prototype,inheritance,oop",advanced,"functions,objects",js_prototypes_inheritance.mp4
+video092,JavaScript Debouncing and Throttling,JavaScript,"debouncing,throttling,performance",advanced,"functions,events",js_debounce_throttle.mp4
+video093,JavaScript Event Delegation,JavaScript,"events,delegation,dom",intermediate,"dom events,listeners",js_event_delegation.mp4
+video094,JavaScript Template Literals,JavaScript,"template strings,interpolation",beginner,"strings,variables",js_template_literals.mp4
+video095,JavaScript Generators Explained,JavaScript,"generators,yield,iteration",advanced,"functions,iterators",js_generators.mp4
+video096,JavaScript Bitwise Operators,JavaScript,"bitwise,operators,binary",intermediate,"operators,numbers",js_bitwise_operators.mp4
+video097,python operators,Python,operators,intermediate,variables,python_operators.mp4
+video098,python type casting,Python,"type casting,datatype",intermediate,variables,type_casting.mp4
+video099,python dictionary,Python,"dictionary,variables,keywords",intermediate,variables,python_dictionary.mp4
+video100,python exception Handling,Python,"exception handling,error",intermediate,"variables,functions",exception_handling_python.mp4

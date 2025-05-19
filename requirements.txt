@@ -1,0 +1,13 @@
+openai-whisper
+flask
+pymongo
+langchain
+transformers
+torch
+tqdm
+chromadb
+python-dotenv
+ffmpeg-python
+sentence-transformers
+numpy
+scikit-learn

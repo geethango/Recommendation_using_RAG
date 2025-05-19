@@ -1,0 +1,2502 @@
+[
+  {
+    "input_video": "css_flexbox.mp4",
+    "top_matches": [
+      {
+        "matched_video": "css_grid.mp4",
+        "score": 0.3335968852043152
+      },
+      {
+        "matched_video": "html_inline_block_short.mp4",
+        "score": 0.25152045488357544
+      },
+      {
+        "matched_video": "css_selectors.mp4",
+        "score": 0.20877057313919067
+      },
+      {
+        "matched_video": "python_flask_intro.mp4",
+        "score": 0.18373170495033264
+      },
+      {
+        "matched_video": "html_progress_tag_short.mp4",
+        "score": 0.17365700006484985
+      }
+    ]
+  },
+  {
+    "input_video": "css_grid.mp4",
+    "top_matches": [
+      {
+        "matched_video": "css_flexbox.mp4",
+        "score": 0.3335968852043152
+      },
+      {
+        "matched_video": "css_selectors.mp4",
+        "score": 0.250265508890152
+      },
+      {
+        "matched_video": "html_canvas.mp4",
+        "score": 0.20624572038650513
+      },
+      {
+        "matched_video": "html_progress_tag_short.mp4",
+        "score": 0.19155284762382507
+      },
+      {
+        "matched_video": "c_arrays_usage.mp4",
+        "score": 0.18541383743286133
+      }
+    ]
+  },
+  {
+    "input_video": "css_selectors.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.39501988887786865
+      },
+      {
+        "matched_video": "js_generators.mp4",
+        "score": 0.37901073694229126
+      },
+      {
+        "matched_video": "html_entities_short.mp4",
+        "score": 0.3151950240135193
+      },
+      {
+        "matched_video": "html_semantic.mp4",
+        "score": 0.31503069400787354
+      },
+      {
+        "matched_video": "js_react_basics.mp4",
+        "score": 0.30324649810791016
+      }
+    ]
+  },
+  {
+    "input_video": "c_2d_arrays.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_arrays.mp4",
+        "score": 0.4665294885635376
+      },
+      {
+        "matched_video": "c_arrays_usage.mp4",
+        "score": 0.43549463152885437
+      },
+      {
+        "matched_video": "c_assignment_operators.mp4",
+        "score": 0.4151058793067932
+      },
+      {
+        "matched_video": "c_scanf_input.mp4",
+        "score": 0.39589595794677734
+      },
+      {
+        "matched_video": "java_datatypes.mp4",
+        "score": 0.36887550354003906
+      }
+    ]
+  },
+  {
+    "input_video": "c_addition_two_numbers.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_while_loop_natural_numbers.mp4",
+        "score": 0.3115197420120239
+      },
+      {
+        "matched_video": "c_odd_even_check.mp4",
+        "score": 0.2599014341831207
+      },
+      {
+        "matched_video": "html_basics.mp4",
+        "score": 0.12018099427223206
+      },
+      {
+        "matched_video": "c_dynamic_memory.mp4",
+        "score": 0.09678946435451508
+      },
+      {
+        "matched_video": "c_pattern_tutorial.mp4",
+        "score": 0.0943455919623375
+      }
+    ]
+  },
+  {
+    "input_video": "c_arrays_usage.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_2d_arrays.mp4",
+        "score": 0.43549463152885437
+      },
+      {
+        "matched_video": "c_typedef_keyword.mp4",
+        "score": 0.3905065953731537
+      },
+      {
+        "matched_video": "recusive_function_java.mp4",
+        "score": 0.38699769973754883
+      },
+      {
+        "matched_video": "js_closures.mp4",
+        "score": 0.33801406621932983
+      },
+      {
+        "matched_video": "c_unions_tutorial.mp4",
+        "score": 0.31896913051605225
+      }
+    ]
+  },
+  {
+    "input_video": "c_ascii_animation.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_star_pattern_printing.mp4",
+        "score": 1.0
+      },
+      {
+        "matched_video": "c_multiplication_exercise.mp4",
+        "score": 1.0
+      },
+      {
+        "matched_video": "c_do_while_loop.mp4",
+        "score": 0.356736958026886
+      },
+      {
+        "matched_video": "python_functions.mp4",
+        "score": 0.3397771716117859
+      },
+      {
+        "matched_video": "html_images_media.mp4",
+        "score": 0.3141896426677704
+      }
+    ]
+  },
+  {
+    "input_video": "c_assignment_operators.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_scanf_input.mp4",
+        "score": 0.5021644830703735
+      },
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.4605780839920044
+      },
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.42536988854408264
+      },
+      {
+        "matched_video": "c_2d_arrays.mp4",
+        "score": 0.4151058793067932
+      },
+      {
+        "matched_video": "java_arrays.mp4",
+        "score": 0.37831154465675354
+      }
+    ]
+  },
+  {
+    "input_video": "c_do_while_loop.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_star_pattern_printing.mp4",
+        "score": 0.356736958026886
+      },
+      {
+        "matched_video": "c_multiplication_exercise.mp4",
+        "score": 0.356736958026886
+      },
+      {
+        "matched_video": "c_ascii_animation.mp4",
+        "score": 0.356736958026886
+      },
+      {
+        "matched_video": "c_pattern_tutorial.mp4",
+        "score": 0.33045393228530884
+      },
+      {
+        "matched_video": "html_images_media.mp4",
+        "score": 0.252490758895874
+      }
+    ]
+  },
+  {
+    "input_video": "c_dynamic_memory.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_scanf_input.mp4",
+        "score": 0.4071560800075531
+      },
+      {
+        "matched_video": "c_realloc_usage.mp4",
+        "score": 0.34497690200805664
+      },
+      {
+        "matched_video": "c_pointers.mp4",
+        "score": 0.3268585205078125
+      },
+      {
+        "matched_video": "c_assignment_operators.mp4",
+        "score": 0.32079899311065674
+      },
+      {
+        "matched_video": "c_2d_arrays.mp4",
+        "score": 0.3143773674964905
+      }
+    ]
+  },
+  {
+    "input_video": "c_header_files.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_realloc_usage.mp4",
+        "score": 0.35689225792884827
+      },
+      {
+        "matched_video": "if __name__main for python .mp4",
+        "score": 0.3314933776855469
+      },
+      {
+        "matched_video": "c_scanf_input.mp4",
+        "score": 0.2971077561378479
+      },
+      {
+        "matched_video": "recusive_function_java.mp4",
+        "score": 0.27355849742889404
+      },
+      {
+        "matched_video": "c_dynamic_memory.mp4",
+        "score": 0.2617335915565491
+      }
+    ]
+  },
+  {
+    "input_video": "c_hello_world.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_pattern_example.mp4",
+        "score": 1.0
+      },
+      {
+        "matched_video": "html_basics.mp4",
+        "score": 0.5474218130111694
+      },
+      {
+        "matched_video": "html_images_media.mp4",
+        "score": 0.33559679985046387
+      },
+      {
+        "matched_video": "python_loops_intro.mp4",
+        "score": 0.2828304171562195
+      },
+      {
+        "matched_video": "c_star_pattern_printing.mp4",
+        "score": 0.25157687067985535
+      }
+    ]
+  },
+  {
+    "input_video": "c_multiplication_exercise.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_star_pattern_printing.mp4",
+        "score": 1.0
+      },
+      {
+        "matched_video": "c_ascii_animation.mp4",
+        "score": 1.0
+      },
+      {
+        "matched_video": "c_do_while_loop.mp4",
+        "score": 0.356736958026886
+      },
+      {
+        "matched_video": "python_functions.mp4",
+        "score": 0.3397771716117859
+      },
+      {
+        "matched_video": "html_images_media.mp4",
+        "score": 0.3141896426677704
+      }
+    ]
+  },
+  {
+    "input_video": "c_odd_even_check.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_while_loop_natural_numbers.mp4",
+        "score": 0.4271742105484009
+      },
+      {
+        "matched_video": "c_pattern_tutorial.mp4",
+        "score": 0.3369925916194916
+      },
+      {
+        "matched_video": "c_star_pattern_printing.mp4",
+        "score": 0.2630692422389984
+      },
+      {
+        "matched_video": "c_multiplication_exercise.mp4",
+        "score": 0.2630692422389984
+      },
+      {
+        "matched_video": "c_ascii_animation.mp4",
+        "score": 0.2630692422389984
+      }
+    ]
+  },
+  {
+    "input_video": "c_pattern_example.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_hello_world.mp4",
+        "score": 1.0
+      },
+      {
+        "matched_video": "html_basics.mp4",
+        "score": 0.5474218130111694
+      },
+      {
+        "matched_video": "html_images_media.mp4",
+        "score": 0.33559679985046387
+      },
+      {
+        "matched_video": "python_loops_intro.mp4",
+        "score": 0.2828304171562195
+      },
+      {
+        "matched_video": "c_star_pattern_printing.mp4",
+        "score": 0.25157687067985535
+      }
+    ]
+  },
+  {
+    "input_video": "c_pattern_tutorial.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_while_loop_natural_numbers.mp4",
+        "score": 0.4038519561290741
+      },
+      {
+        "matched_video": "c_odd_even_check.mp4",
+        "score": 0.3369925916194916
+      },
+      {
+        "matched_video": "c_do_while_loop.mp4",
+        "score": 0.33045393228530884
+      },
+      {
+        "matched_video": "html_basics.mp4",
+        "score": 0.3207739591598511
+      },
+      {
+        "matched_video": "c_star_pattern_printing.mp4",
+        "score": 0.2956415116786957
+      }
+    ]
+  },
+  {
+    "input_video": "c_pointers.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_scanf_input.mp4",
+        "score": 0.5730031728744507
+      },
+      {
+        "matched_video": "c_realloc_usage.mp4",
+        "score": 0.49360543489456177
+      },
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.4088791012763977
+      },
+      {
+        "matched_video": "java_arrays.mp4",
+        "score": 0.33863565325737
+      },
+      {
+        "matched_video": "c_dynamic_memory.mp4",
+        "score": 0.3268585205078125
+      }
+    ]
+  },
+  {
+    "input_video": "c_realloc_usage.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_pointers.mp4",
+        "score": 0.49360543489456177
+      },
+      {
+        "matched_video": "c_scanf_input.mp4",
+        "score": 0.41442620754241943
+      },
+      {
+        "matched_video": "recusive_function_java.mp4",
+        "score": 0.40845829248428345
+      },
+      {
+        "matched_video": "c_2d_arrays.mp4",
+        "score": 0.3675351142883301
+      },
+      {
+        "matched_video": "c_header_files.mp4",
+        "score": 0.35689225792884827
+      }
+    ]
+  },
+  {
+    "input_video": "c_scanf_input.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_pointers.mp4",
+        "score": 0.5730031728744507
+      },
+      {
+        "matched_video": "c_assignment_operators.mp4",
+        "score": 0.5021644830703735
+      },
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.4210549592971802
+      },
+      {
+        "matched_video": "c_realloc_usage.mp4",
+        "score": 0.41442620754241943
+      },
+      {
+        "matched_video": "recusive_function_java.mp4",
+        "score": 0.40841731429100037
+      }
+    ]
+  },
+  {
+    "input_video": "c_star_pattern_printing.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_multiplication_exercise.mp4",
+        "score": 1.0
+      },
+      {
+        "matched_video": "c_ascii_animation.mp4",
+        "score": 1.0
+      },
+      {
+        "matched_video": "c_do_while_loop.mp4",
+        "score": 0.356736958026886
+      },
+      {
+        "matched_video": "python_functions.mp4",
+        "score": 0.3397771716117859
+      },
+      {
+        "matched_video": "html_images_media.mp4",
+        "score": 0.3141896426677704
+      }
+    ]
+  },
+  {
+    "input_video": "c_typedef_keyword.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_arrays_usage.mp4",
+        "score": 0.3905065953731537
+      },
+      {
+        "matched_video": "c_unions_tutorial.mp4",
+        "score": 0.3376109004020691
+      },
+      {
+        "matched_video": "html_entities_short.mp4",
+        "score": 0.26613980531692505
+      },
+      {
+        "matched_video": "js_template_literals.mp4",
+        "score": 0.2659022808074951
+      },
+      {
+        "matched_video": "c_assignment_operators.mp4",
+        "score": 0.2498442530632019
+      }
+    ]
+  },
+  {
+    "input_video": "c_unions_tutorial.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_scanf_input.mp4",
+        "score": 0.35757601261138916
+      },
+      {
+        "matched_video": "c_2d_arrays.mp4",
+        "score": 0.33952316641807556
+      },
+      {
+        "matched_video": "c_typedef_keyword.mp4",
+        "score": 0.3376109004020691
+      },
+      {
+        "matched_video": "c_realloc_usage.mp4",
+        "score": 0.3331264853477478
+      },
+      {
+        "matched_video": "recusive_function_java.mp4",
+        "score": 0.32416921854019165
+      }
+    ]
+  },
+  {
+    "input_video": "c_while_loop_natural_numbers.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_odd_even_check.mp4",
+        "score": 0.4271742105484009
+      },
+      {
+        "matched_video": "c_pattern_tutorial.mp4",
+        "score": 0.4038519561290741
+      },
+      {
+        "matched_video": "c_addition_two_numbers.mp4",
+        "score": 0.3115197420120239
+      },
+      {
+        "matched_video": "c_star_pattern_printing.mp4",
+        "score": 0.24873754382133484
+      },
+      {
+        "matched_video": "c_multiplication_exercise.mp4",
+        "score": 0.24873754382133484
+      }
+    ]
+  },
+  {
+    "input_video": "exception_handling_python.mp4",
+    "top_matches": [
+      {
+        "matched_video": "exeption_handlng_java.mp4",
+        "score": 0.541462779045105
+      },
+      {
+        "matched_video": "python_files.mp4",
+        "score": 0.45266619324684143
+      },
+      {
+        "matched_video": "js_try_catch.mp4",
+        "score": 0.43365439772605896
+      },
+      {
+        "matched_video": "if __name__main for python .mp4",
+        "score": 0.39426103234291077
+      },
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.37390434741973877
+      }
+    ]
+  },
+  {
+    "input_video": "exeption_handlng_java.mp4",
+    "top_matches": [
+      {
+        "matched_video": "exception_handling_python.mp4",
+        "score": 0.541462779045105
+      },
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.4267381429672241
+      },
+      {
+        "matched_video": "java_basics.mp4",
+        "score": 0.3925820589065552
+      },
+      {
+        "matched_video": "js_try_catch.mp4",
+        "score": 0.3612860143184662
+      },
+      {
+        "matched_video": "java_comments.mp4",
+        "score": 0.3565061092376709
+      }
+    ]
+  },
+  {
+    "input_video": "FastAPI.mp4",
+    "top_matches": [
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.5705177783966064
+      },
+      {
+        "matched_video": "js_fetch_api.mp4",
+        "score": 0.36103275418281555
+      },
+      {
+        "matched_video": "python_flask_intro.mp4",
+        "score": 0.3379947543144226
+      },
+      {
+        "matched_video": "python_list_comprehensions.mp4",
+        "score": 0.29143452644348145
+      },
+      {
+        "matched_video": "python_oop.mp4",
+        "score": 0.26315563917160034
+      }
+    ]
+  },
+  {
+    "input_video": "for loop.mp4",
+    "top_matches": [
+      {
+        "matched_video": "python_list_comprehensions.mp4",
+        "score": 0.6199760437011719
+      },
+      {
+        "matched_video": "lambda function.mp4",
+        "score": 0.4329303503036499
+      },
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.4098268449306488
+      },
+      {
+        "matched_video": "exception_handling_python.mp4",
+        "score": 0.36668723821640015
+      },
+      {
+        "matched_video": "python_dictionary.mp4",
+        "score": 0.3555445671081543
+      }
+    ]
+  },
+  {
+    "input_video": "html_abbr_tag_short.mp4",
+    "top_matches": [
+      {
+        "matched_video": "html_quotation_citation_short.mp4",
+        "score": 0.5951783061027527
+      },
+      {
+        "matched_video": "html_meta_tags.mp4",
+        "score": 0.42446258664131165
+      },
+      {
+        "matched_video": "html_lists.mp4",
+        "score": 0.3909977376461029
+      },
+      {
+        "matched_video": "html_iframes.mp4",
+        "score": 0.3699181079864502
+      },
+      {
+        "matched_video": "html_button_tag_short.mp4",
+        "score": 0.35853803157806396
+      }
+    ]
+  },
+  {
+    "input_video": "html_basics.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_pattern_example.mp4",
+        "score": 0.5474218130111694
+      },
+      {
+        "matched_video": "c_hello_world.mp4",
+        "score": 0.5474218130111694
+      },
+      {
+        "matched_video": "c_pattern_tutorial.mp4",
+        "score": 0.3207739591598511
+      },
+      {
+        "matched_video": "python_loops_intro.mp4",
+        "score": 0.26229000091552734
+      },
+      {
+        "matched_video": "c_odd_even_check.mp4",
+        "score": 0.24938441812992096
+      }
+    ]
+  },
+  {
+    "input_video": "html_button_tag_short.mp4",
+    "top_matches": [
+      {
+        "matched_video": "html_meta_tags.mp4",
+        "score": 0.42449167370796204
+      },
+      {
+        "matched_video": "html_iframes.mp4",
+        "score": 0.41996175050735474
+      },
+      {
+        "matched_video": "html_fieldset_short.mp4",
+        "score": 0.3962082862854004
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.3670613765716553
+      },
+      {
+        "matched_video": "html_abbr_tag_short.mp4",
+        "score": 0.35853803157806396
+      }
+    ]
+  },
+  {
+    "input_video": "html_canvas.mp4",
+    "top_matches": [
+      {
+        "matched_video": "python_turtle.mp4",
+        "score": 0.2594984769821167
+      },
+      {
+        "matched_video": "js_generators.mp4",
+        "score": 0.24367274343967438
+      },
+      {
+        "matched_video": "c_arrays_usage.mp4",
+        "score": 0.24358829855918884
+      },
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.24357029795646667
+      },
+      {
+        "matched_video": "html_entities_short.mp4",
+        "score": 0.2376425564289093
+      }
+    ]
+  },
+  {
+    "input_video": "html_entities_short.mp4",
+    "top_matches": [
+      {
+        "matched_video": "html_semantic.mp4",
+        "score": 0.40149977803230286
+      },
+      {
+        "matched_video": "html_abbr_tag_short.mp4",
+        "score": 0.3537455201148987
+      },
+      {
+        "matched_video": "js_template_literals.mp4",
+        "score": 0.3315165340900421
+      },
+      {
+        "matched_video": "css_selectors.mp4",
+        "score": 0.3151950240135193
+      },
+      {
+        "matched_video": "js_generators.mp4",
+        "score": 0.3075900077819824
+      }
+    ]
+  },
+  {
+    "input_video": "html_fieldset_short.mp4",
+    "top_matches": [
+      {
+        "matched_video": "html_button_tag_short.mp4",
+        "score": 0.3962082862854004
+      },
+      {
+        "matched_video": "java_data_structres.mp4",
+        "score": 0.3531629741191864
+      },
+      {
+        "matched_video": "html_iframes.mp4",
+        "score": 0.3468121886253357
+      },
+      {
+        "matched_video": "html_lists.mp4",
+        "score": 0.2969598174095154
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.2847481966018677
+      }
+    ]
+  },
+  {
+    "input_video": "html_forms.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_react_basics.mp4",
+        "score": 0.35428786277770996
+      },
+      {
+        "matched_video": "js_arrow_functions.mp4",
+        "score": 0.2763967514038086
+      },
+      {
+        "matched_video": "js_map_set.mp4",
+        "score": 0.26801592111587524
+      },
+      {
+        "matched_video": "js_try_catch.mp4",
+        "score": 0.2577894926071167
+      },
+      {
+        "matched_video": "js_bitwise_operators.mp4",
+        "score": 0.25469428300857544
+      }
+    ]
+  },
+  {
+    "input_video": "html_iframes.mp4",
+    "top_matches": [
+      {
+        "matched_video": "html_links_navigation.mp4",
+        "score": 0.42426714301109314
+      },
+      {
+        "matched_video": "html_button_tag_short.mp4",
+        "score": 0.41996175050735474
+      },
+      {
+        "matched_video": "html_abbr_tag_short.mp4",
+        "score": 0.3699181079864502
+      },
+      {
+        "matched_video": "html_fieldset_short.mp4",
+        "score": 0.3468121886253357
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.3359633684158325
+      }
+    ]
+  },
+  {
+    "input_video": "html_images_media.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_pattern_example.mp4",
+        "score": 0.33559679985046387
+      },
+      {
+        "matched_video": "c_hello_world.mp4",
+        "score": 0.33559679985046387
+      },
+      {
+        "matched_video": "c_star_pattern_printing.mp4",
+        "score": 0.3141896426677704
+      },
+      {
+        "matched_video": "c_multiplication_exercise.mp4",
+        "score": 0.3141896426677704
+      },
+      {
+        "matched_video": "c_ascii_animation.mp4",
+        "score": 0.3141896426677704
+      }
+    ]
+  },
+  {
+    "input_video": "html_inline_block_short.mp4",
+    "top_matches": [
+      {
+        "matched_video": "html_lists.mp4",
+        "score": 0.4055445194244385
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.37177836894989014
+      },
+      {
+        "matched_video": "html_button_tag_short.mp4",
+        "score": 0.33018559217453003
+      },
+      {
+        "matched_video": "html_semantic.mp4",
+        "score": 0.3230850398540497
+      },
+      {
+        "matched_video": "html_iframes.mp4",
+        "score": 0.309150755405426
+      }
+    ]
+  },
+  {
+    "input_video": "html_links_navigation.mp4",
+    "top_matches": [
+      {
+        "matched_video": "html_iframes.mp4",
+        "score": 0.42426714301109314
+      },
+      {
+        "matched_video": "html_lists.mp4",
+        "score": 0.356059193611145
+      },
+      {
+        "matched_video": "html_button_tag_short.mp4",
+        "score": 0.3077540397644043
+      },
+      {
+        "matched_video": "html_abbr_tag_short.mp4",
+        "score": 0.292793869972229
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.27025261521339417
+      }
+    ]
+  },
+  {
+    "input_video": "html_lists.mp4",
+    "top_matches": [
+      {
+        "matched_video": "html_inline_block_short.mp4",
+        "score": 0.4055445194244385
+      },
+      {
+        "matched_video": "html_abbr_tag_short.mp4",
+        "score": 0.3909977376461029
+      },
+      {
+        "matched_video": "html_links_navigation.mp4",
+        "score": 0.356059193611145
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.3499401807785034
+      },
+      {
+        "matched_video": "html_button_tag_short.mp4",
+        "score": 0.3484457731246948
+      }
+    ]
+  },
+  {
+    "input_video": "html_meta_tags.mp4",
+    "top_matches": [
+      {
+        "matched_video": "html_button_tag_short.mp4",
+        "score": 0.42449167370796204
+      },
+      {
+        "matched_video": "html_abbr_tag_short.mp4",
+        "score": 0.42446258664131165
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.35025715827941895
+      },
+      {
+        "matched_video": "html_iframes.mp4",
+        "score": 0.3234565854072571
+      },
+      {
+        "matched_video": "html_lists.mp4",
+        "score": 0.32092803716659546
+      }
+    ]
+  },
+  {
+    "input_video": "html_progress_tag_short.mp4",
+    "top_matches": [
+      {
+        "matched_video": "css_selectors.mp4",
+        "score": 0.2977655827999115
+      },
+      {
+        "matched_video": "html_abbr_tag_short.mp4",
+        "score": 0.28358274698257446
+      },
+      {
+        "matched_video": "html_quotation_citation_short.mp4",
+        "score": 0.25426626205444336
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.24183201789855957
+      },
+      {
+        "matched_video": "html_forms.mp4",
+        "score": 0.21717587113380432
+      }
+    ]
+  },
+  {
+    "input_video": "html_quotation_citation_short.mp4",
+    "top_matches": [
+      {
+        "matched_video": "html_abbr_tag_short.mp4",
+        "score": 0.5951783061027527
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.3343695402145386
+      },
+      {
+        "matched_video": "html_semantic.mp4",
+        "score": 0.308535099029541
+      },
+      {
+        "matched_video": "html_meta_tags.mp4",
+        "score": 0.29625600576400757
+      },
+      {
+        "matched_video": "html_inline_block_short.mp4",
+        "score": 0.2946809232234955
+      }
+    ]
+  },
+  {
+    "input_video": "html_semantic.mp4",
+    "top_matches": [
+      {
+        "matched_video": "html_entities_short.mp4",
+        "score": 0.40149977803230286
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.3908517360687256
+      },
+      {
+        "matched_video": "html_abbr_tag_short.mp4",
+        "score": 0.324665904045105
+      },
+      {
+        "matched_video": "html_inline_block_short.mp4",
+        "score": 0.3230850398540497
+      },
+      {
+        "matched_video": "css_selectors.mp4",
+        "score": 0.31503069400787354
+      }
+    ]
+  },
+  {
+    "input_video": "html_tables.mp4",
+    "top_matches": [
+      {
+        "matched_video": "html_images_media.mp4",
+        "score": 0.24736078083515167
+      },
+      {
+        "matched_video": "c_star_pattern_printing.mp4",
+        "score": 0.19010327756404877
+      },
+      {
+        "matched_video": "c_multiplication_exercise.mp4",
+        "score": 0.19010327756404877
+      },
+      {
+        "matched_video": "c_ascii_animation.mp4",
+        "score": 0.19010327756404877
+      },
+      {
+        "matched_video": "html_basics.mp4",
+        "score": 0.15789121389389038
+      }
+    ]
+  },
+  {
+    "input_video": "if __name__main for python .mp4",
+    "top_matches": [
+      {
+        "matched_video": "recursion.mp4",
+        "score": 0.4034048318862915
+      },
+      {
+        "matched_video": "python_files.mp4",
+        "score": 0.3954138159751892
+      },
+      {
+        "matched_video": "exception_handling_python.mp4",
+        "score": 0.39426103234291077
+      },
+      {
+        "matched_video": "python_list_comprehensions.mp4",
+        "score": 0.39037466049194336
+      },
+      {
+        "matched_video": "python datatypes.mp4",
+        "score": 0.3867681324481964
+      }
+    ]
+  },
+  {
+    "input_video": "java_arrays.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_datatypes.mp4",
+        "score": 0.5305448770523071
+      },
+      {
+        "matched_video": "c_2d_arrays.mp4",
+        "score": 0.4665294885635376
+      },
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.42414337396621704
+      },
+      {
+        "matched_video": "string_java.mp4",
+        "score": 0.38345977663993835
+      },
+      {
+        "matched_video": "java_typecasting.mp4",
+        "score": 0.3815087080001831
+      }
+    ]
+  },
+  {
+    "input_video": "java_basics.mp4",
+    "top_matches": [
+      {
+        "matched_video": "oops_java .mp4",
+        "score": 0.543831467628479
+      },
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.5048510432243347
+      },
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.4598005712032318
+      },
+      {
+        "matched_video": "exeption_handlng_java.mp4",
+        "score": 0.3925820589065552
+      },
+      {
+        "matched_video": "string_functions_ java.mp4",
+        "score": 0.3693559169769287
+      }
+    ]
+  },
+  {
+    "input_video": "java_comments.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.4151117205619812
+      },
+      {
+        "matched_video": "oops_java .mp4",
+        "score": 0.4113669693470001
+      },
+      {
+        "matched_video": "java_datatypes.mp4",
+        "score": 0.3962758183479309
+      },
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.3897942304611206
+      },
+      {
+        "matched_video": "lamda_java.mp4",
+        "score": 0.38930457830429077
+      }
+    ]
+  },
+  {
+    "input_video": "java_constructur.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_files.mp4",
+        "score": 0.40640029311180115
+      },
+      {
+        "matched_video": "python_files.mp4",
+        "score": 0.3749139904975891
+      },
+      {
+        "matched_video": "if __name__main for python .mp4",
+        "score": 0.32379233837127686
+      },
+      {
+        "matched_video": "overloadind_and_overdiding_java.mp4",
+        "score": 0.3151743412017822
+      },
+      {
+        "matched_video": "oops_java .mp4",
+        "score": 0.2902567386627197
+      }
+    ]
+  },
+  {
+    "input_video": "java_datatypes.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.6464855074882507
+      },
+      {
+        "matched_video": "java_arrays.mp4",
+        "score": 0.5305448770523071
+      },
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.49496525526046753
+      },
+      {
+        "matched_video": "java_typecasting.mp4",
+        "score": 0.48335760831832886
+      },
+      {
+        "matched_video": "loops_java .mp4",
+        "score": 0.4562864303588867
+      }
+    ]
+  },
+  {
+    "input_video": "java_data_structres.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_datatypes.mp4",
+        "score": 0.374807745218277
+      },
+      {
+        "matched_video": "oops_java .mp4",
+        "score": 0.35411882400512695
+      },
+      {
+        "matched_video": "html_fieldset_short.mp4",
+        "score": 0.3531629741191864
+      },
+      {
+        "matched_video": "java_modifiers.mp4",
+        "score": 0.32668185234069824
+      },
+      {
+        "matched_video": "loops_java .mp4",
+        "score": 0.32563135027885437
+      }
+    ]
+  },
+  {
+    "input_video": "java_files.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_constructur.mp4",
+        "score": 0.40640029311180115
+      },
+      {
+        "matched_video": "python_files.mp4",
+        "score": 0.3476317822933197
+      },
+      {
+        "matched_video": "string_functions_ java.mp4",
+        "score": 0.33889836072921753
+      },
+      {
+        "matched_video": "exeption_handlng_java.mp4",
+        "score": 0.28796809911727905
+      },
+      {
+        "matched_video": "java_packages.mp4",
+        "score": 0.2474709004163742
+      }
+    ]
+  },
+  {
+    "input_video": "java_modifiers.mp4",
+    "top_matches": [
+      {
+        "matched_video": "overloadind_and_overdiding_java.mp4",
+        "score": 0.4415588080883026
+      },
+      {
+        "matched_video": "oops_java .mp4",
+        "score": 0.42397475242614746
+      },
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.3685782253742218
+      },
+      {
+        "matched_video": "java_packages.mp4",
+        "score": 0.3616565465927124
+      },
+      {
+        "matched_video": "java_comments.mp4",
+        "score": 0.3614153563976288
+      }
+    ]
+  },
+  {
+    "input_video": "java_operators.mp4",
+    "top_matches": [
+      {
+        "matched_video": "lamda_java.mp4",
+        "score": 0.50993412733078
+      },
+      {
+        "matched_video": "java_basics.mp4",
+        "score": 0.5048510432243347
+      },
+      {
+        "matched_video": "java_datatypes.mp4",
+        "score": 0.49496525526046753
+      },
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.48807647824287415
+      },
+      {
+        "matched_video": "c_assignment_operators.mp4",
+        "score": 0.4605780839920044
+      }
+    ]
+  },
+  {
+    "input_video": "java_packages.mp4",
+    "top_matches": [
+      {
+        "matched_video": "module package library.mp4",
+        "score": 0.3686566650867462
+      },
+      {
+        "matched_video": "java_modifiers.mp4",
+        "score": 0.3616565465927124
+      },
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.33108967542648315
+      },
+      {
+        "matched_video": "oops_java .mp4",
+        "score": 0.31298989057540894
+      },
+      {
+        "matched_video": "java_basics.mp4",
+        "score": 0.31062260270118713
+      }
+    ]
+  },
+  {
+    "input_video": "java_switch.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.3104539215564728
+      },
+      {
+        "matched_video": "string_functions_ java.mp4",
+        "score": 0.30728769302368164
+      },
+      {
+        "matched_video": "java_basics.mp4",
+        "score": 0.23438432812690735
+      },
+      {
+        "matched_video": "loops_java .mp4",
+        "score": 0.22780078649520874
+      },
+      {
+        "matched_video": "c_unions_tutorial.mp4",
+        "score": 0.22219395637512207
+      }
+    ]
+  },
+  {
+    "input_video": "java_typecasting.mp4",
+    "top_matches": [
+      {
+        "matched_video": "type_casting.mp4",
+        "score": 0.5253421664237976
+      },
+      {
+        "matched_video": "java_datatypes.mp4",
+        "score": 0.48335760831832886
+      },
+      {
+        "matched_video": "overloadind_and_overdiding_java.mp4",
+        "score": 0.45896169543266296
+      },
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.39351025223731995
+      },
+      {
+        "matched_video": "java_arrays.mp4",
+        "score": 0.3815087080001831
+      }
+    ]
+  },
+  {
+    "input_video": "java_variable.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_datatypes.mp4",
+        "score": 0.6464855074882507
+      },
+      {
+        "matched_video": "js_variables.mp4",
+        "score": 0.5896800756454468
+      },
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.48807647824287415
+      },
+      {
+        "matched_video": "java_basics.mp4",
+        "score": 0.4598005712032318
+      },
+      {
+        "matched_video": "oops_java .mp4",
+        "score": 0.4546475410461426
+      }
+    ]
+  },
+  {
+    "input_video": "js_arrow_functions.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_try_catch.mp4",
+        "score": 0.48968908190727234
+      },
+      {
+        "matched_video": "js_promises.mp4",
+        "score": 0.4257473051548004
+      },
+      {
+        "matched_video": "js_prototypes_inheritance.mp4",
+        "score": 0.4147700071334839
+      },
+      {
+        "matched_video": "js_react_basics.mp4",
+        "score": 0.40136194229125977
+      },
+      {
+        "matched_video": "js_generators.mp4",
+        "score": 0.3884247839450836
+      }
+    ]
+  },
+  {
+    "input_video": "js_async_await.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_event_loop.mp4",
+        "score": 0.5317907929420471
+      },
+      {
+        "matched_video": "js_promises.mp4",
+        "score": 0.4917561113834381
+      },
+      {
+        "matched_video": "js_arrow_functions.mp4",
+        "score": 0.3404475748538971
+      },
+      {
+        "matched_video": "js_try_catch.mp4",
+        "score": 0.28273236751556396
+      },
+      {
+        "matched_video": "js_debounce_throttle.mp4",
+        "score": 0.24612215161323547
+      }
+    ]
+  },
+  {
+    "input_video": "js_bitwise_operators.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.3824794888496399
+      },
+      {
+        "matched_video": "c_assignment_operators.mp4",
+        "score": 0.36913907527923584
+      },
+      {
+        "matched_video": "js_try_catch.mp4",
+        "score": 0.3487570583820343
+      },
+      {
+        "matched_video": "js_spread_rest.mp4",
+        "score": 0.3426209092140198
+      },
+      {
+        "matched_video": "recusive_function_java.mp4",
+        "score": 0.3295489549636841
+      }
+    ]
+  },
+  {
+    "input_video": "js_closures.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_event_delegation.mp4",
+        "score": 0.3944457173347473
+      },
+      {
+        "matched_video": "js_prototypes_inheritance.mp4",
+        "score": 0.3757707178592682
+      },
+      {
+        "matched_video": "python_decorators.mp4",
+        "score": 0.33857083320617676
+      },
+      {
+        "matched_video": "c_arrays_usage.mp4",
+        "score": 0.33801406621932983
+      },
+      {
+        "matched_video": "js_generators.mp4",
+        "score": 0.33626991510391235
+      }
+    ]
+  },
+  {
+    "input_video": "js_debounce_throttle.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_event_loop.mp4",
+        "score": 0.3435658812522888
+      },
+      {
+        "matched_video": "js_event_delegation.mp4",
+        "score": 0.3033258020877838
+      },
+      {
+        "matched_video": "js_variables.mp4",
+        "score": 0.2705690562725067
+      },
+      {
+        "matched_video": "js_generators.mp4",
+        "score": 0.24732930958271027
+      },
+      {
+        "matched_video": "js_async_await.mp4",
+        "score": 0.24612215161323547
+      }
+    ]
+  },
+  {
+    "input_video": "js_dom.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_prototypes_inheritance.mp4",
+        "score": 0.4498511850833893
+      },
+      {
+        "matched_video": "css_selectors.mp4",
+        "score": 0.39501988887786865
+      },
+      {
+        "matched_video": "js_event_delegation.mp4",
+        "score": 0.3935810625553131
+      },
+      {
+        "matched_video": "html_semantic.mp4",
+        "score": 0.3908517360687256
+      },
+      {
+        "matched_video": "js_react_basics.mp4",
+        "score": 0.38051044940948486
+      }
+    ]
+  },
+  {
+    "input_video": "js_event_delegation.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_prototypes_inheritance.mp4",
+        "score": 0.4727351665496826
+      },
+      {
+        "matched_video": "js_closures.mp4",
+        "score": 0.3944457173347473
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.3935810625553131
+      },
+      {
+        "matched_video": "js_event_loop.mp4",
+        "score": 0.33691656589508057
+      },
+      {
+        "matched_video": "js_react_basics.mp4",
+        "score": 0.3234429359436035
+      }
+    ]
+  },
+  {
+    "input_video": "js_event_loop.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_async_await.mp4",
+        "score": 0.5317907929420471
+      },
+      {
+        "matched_video": "js_promises.mp4",
+        "score": 0.506847620010376
+      },
+      {
+        "matched_video": "js_try_catch.mp4",
+        "score": 0.36923763155937195
+      },
+      {
+        "matched_video": "js_debounce_throttle.mp4",
+        "score": 0.3435658812522888
+      },
+      {
+        "matched_video": "js_generators.mp4",
+        "score": 0.33771979808807373
+      }
+    ]
+  },
+  {
+    "input_video": "js_fetch_api.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_promises.mp4",
+        "score": 0.4384009540081024
+      },
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.42407751083374023
+      },
+      {
+        "matched_video": "FastAPI.mp4",
+        "score": 0.36103275418281555
+      },
+      {
+        "matched_video": "js_react_basics.mp4",
+        "score": 0.28545132279396057
+      },
+      {
+        "matched_video": "js_arrow_functions.mp4",
+        "score": 0.26565396785736084
+      }
+    ]
+  },
+  {
+    "input_video": "js_generators.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_react_basics.mp4",
+        "score": 0.41787415742874146
+      },
+      {
+        "matched_video": "js_prototypes_inheritance.mp4",
+        "score": 0.40547695755958557
+      },
+      {
+        "matched_video": "js_arrow_functions.mp4",
+        "score": 0.3884247839450836
+      },
+      {
+        "matched_video": "css_selectors.mp4",
+        "score": 0.37901073694229126
+      },
+      {
+        "matched_video": "js_try_catch.mp4",
+        "score": 0.3504962921142578
+      }
+    ]
+  },
+  {
+    "input_video": "js_hoisting.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_prototypes_inheritance.mp4",
+        "score": 0.5390971899032593
+      },
+      {
+        "matched_video": "js_variables.mp4",
+        "score": 0.44885265827178955
+      },
+      {
+        "matched_video": "js_react_basics.mp4",
+        "score": 0.41393834352493286
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.3695281147956848
+      },
+      {
+        "matched_video": "js_arrow_functions.mp4",
+        "score": 0.3623060882091522
+      }
+    ]
+  },
+  {
+    "input_video": "js_map_set.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_react_basics.mp4",
+        "score": 0.45245397090911865
+      },
+      {
+        "matched_video": "js_prototypes_inheritance.mp4",
+        "score": 0.39258062839508057
+      },
+      {
+        "matched_video": "js_spread_rest.mp4",
+        "score": 0.35790780186653137
+      },
+      {
+        "matched_video": "js_variables.mp4",
+        "score": 0.3499831557273865
+      },
+      {
+        "matched_video": "js_generators.mp4",
+        "score": 0.3480864465236664
+      }
+    ]
+  },
+  {
+    "input_video": "js_promises.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_event_loop.mp4",
+        "score": 0.506847620010376
+      },
+      {
+        "matched_video": "js_async_await.mp4",
+        "score": 0.4917561113834381
+      },
+      {
+        "matched_video": "js_try_catch.mp4",
+        "score": 0.438575804233551
+      },
+      {
+        "matched_video": "js_fetch_api.mp4",
+        "score": 0.4384009540081024
+      },
+      {
+        "matched_video": "js_arrow_functions.mp4",
+        "score": 0.4257473051548004
+      }
+    ]
+  },
+  {
+    "input_video": "js_prototypes_inheritance.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_hoisting.mp4",
+        "score": 0.5390971899032593
+      },
+      {
+        "matched_video": "js_event_delegation.mp4",
+        "score": 0.4727351665496826
+      },
+      {
+        "matched_video": "js_spread_rest.mp4",
+        "score": 0.4511234164237976
+      },
+      {
+        "matched_video": "js_dom.mp4",
+        "score": 0.4498511850833893
+      },
+      {
+        "matched_video": "js_react_basics.mp4",
+        "score": 0.44094693660736084
+      }
+    ]
+  },
+  {
+    "input_video": "js_react_basics.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_map_set.mp4",
+        "score": 0.45245397090911865
+      },
+      {
+        "matched_video": "js_prototypes_inheritance.mp4",
+        "score": 0.44094693660736084
+      },
+      {
+        "matched_video": "js_generators.mp4",
+        "score": 0.41787415742874146
+      },
+      {
+        "matched_video": "js_hoisting.mp4",
+        "score": 0.41393834352493286
+      },
+      {
+        "matched_video": "js_arrow_functions.mp4",
+        "score": 0.40136194229125977
+      }
+    ]
+  },
+  {
+    "input_video": "js_spread_rest.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_prototypes_inheritance.mp4",
+        "score": 0.4511234164237976
+      },
+      {
+        "matched_video": "js_variables.mp4",
+        "score": 0.3820146322250366
+      },
+      {
+        "matched_video": "js_map_set.mp4",
+        "score": 0.35790780186653137
+      },
+      {
+        "matched_video": "js_hoisting.mp4",
+        "score": 0.3454945683479309
+      },
+      {
+        "matched_video": "js_bitwise_operators.mp4",
+        "score": 0.3426209092140198
+      }
+    ]
+  },
+  {
+    "input_video": "js_template_literals.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.3668532371520996
+      },
+      {
+        "matched_video": "js_arrow_functions.mp4",
+        "score": 0.36632633209228516
+      },
+      {
+        "matched_video": "string_java.mp4",
+        "score": 0.34645888209342957
+      },
+      {
+        "matched_video": "html_entities_short.mp4",
+        "score": 0.3315165340900421
+      },
+      {
+        "matched_video": "js_variables.mp4",
+        "score": 0.3228432536125183
+      }
+    ]
+  },
+  {
+    "input_video": "js_try_catch.mp4",
+    "top_matches": [
+      {
+        "matched_video": "js_arrow_functions.mp4",
+        "score": 0.48968908190727234
+      },
+      {
+        "matched_video": "js_promises.mp4",
+        "score": 0.438575804233551
+      },
+      {
+        "matched_video": "exception_handling_python.mp4",
+        "score": 0.43365439772605896
+      },
+      {
+        "matched_video": "js_event_loop.mp4",
+        "score": 0.36923763155937195
+      },
+      {
+        "matched_video": "exeption_handlng_java.mp4",
+        "score": 0.3612860143184662
+      }
+    ]
+  },
+  {
+    "input_video": "js_variables.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.5896800756454468
+      },
+      {
+        "matched_video": "js_hoisting.mp4",
+        "score": 0.44885265827178955
+      },
+      {
+        "matched_video": "js_prototypes_inheritance.mp4",
+        "score": 0.3933767080307007
+      },
+      {
+        "matched_video": "js_spread_rest.mp4",
+        "score": 0.3820146322250366
+      },
+      {
+        "matched_video": "string_java.mp4",
+        "score": 0.37546443939208984
+      }
+    ]
+  },
+  {
+    "input_video": "lambda function.mp4",
+    "top_matches": [
+      {
+        "matched_video": "lamda_java.mp4",
+        "score": 0.5101850628852844
+      },
+      {
+        "matched_video": "recusive_function_java.mp4",
+        "score": 0.46333742141723633
+      },
+      {
+        "matched_video": "recursion.mp4",
+        "score": 0.4564032256603241
+      },
+      {
+        "matched_video": "python_decorators.mp4",
+        "score": 0.4457889497280121
+      },
+      {
+        "matched_video": "for loop.mp4",
+        "score": 0.4329303503036499
+      }
+    ]
+  },
+  {
+    "input_video": "lamda_java.mp4",
+    "top_matches": [
+      {
+        "matched_video": "lambda function.mp4",
+        "score": 0.5101850628852844
+      },
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.50993412733078
+      },
+      {
+        "matched_video": "java_comments.mp4",
+        "score": 0.38930457830429077
+      },
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.3649632930755615
+      },
+      {
+        "matched_video": "string_functions_ java.mp4",
+        "score": 0.3584338426589966
+      }
+    ]
+  },
+  {
+    "input_video": "loops_java .mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_datatypes.mp4",
+        "score": 0.4562864303588867
+      },
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.43590641021728516
+      },
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.3648545742034912
+      },
+      {
+        "matched_video": "java_comments.mp4",
+        "score": 0.3610239624977112
+      },
+      {
+        "matched_video": "java_typecasting.mp4",
+        "score": 0.35407555103302
+      }
+    ]
+  },
+  {
+    "input_video": "module package library.mp4",
+    "top_matches": [
+      {
+        "matched_video": "if __name__main for python .mp4",
+        "score": 0.3863297700881958
+      },
+      {
+        "matched_video": "java_packages.mp4",
+        "score": 0.3686566650867462
+      },
+      {
+        "matched_video": "python_flask_intro.mp4",
+        "score": 0.3413388729095459
+      },
+      {
+        "matched_video": "java_modifiers.mp4",
+        "score": 0.2912376821041107
+      },
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.28505444526672363
+      }
+    ]
+  },
+  {
+    "input_video": "oops_java .mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_basics.mp4",
+        "score": 0.543831467628479
+      },
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.4546475410461426
+      },
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.429681658744812
+      },
+      {
+        "matched_video": "java_modifiers.mp4",
+        "score": 0.42397475242614746
+      },
+      {
+        "matched_video": "java_comments.mp4",
+        "score": 0.4113669693470001
+      }
+    ]
+  },
+  {
+    "input_video": "overloadind_and_overdiding_java.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_typecasting.mp4",
+        "score": 0.45896169543266296
+      },
+      {
+        "matched_video": "java_modifiers.mp4",
+        "score": 0.4415588080883026
+      },
+      {
+        "matched_video": "oops_java .mp4",
+        "score": 0.36326128244400024
+      },
+      {
+        "matched_video": "java_constructur.mp4",
+        "score": 0.3151743412017822
+      },
+      {
+        "matched_video": "lamda_java.mp4",
+        "score": 0.312225341796875
+      }
+    ]
+  },
+  {
+    "input_video": "python datatypes.mp4",
+    "top_matches": [
+      {
+        "matched_video": "type_casting.mp4",
+        "score": 0.699982762336731
+      },
+      {
+        "matched_video": "java_datatypes.mp4",
+        "score": 0.44601741433143616
+      },
+      {
+        "matched_video": "lambda function.mp4",
+        "score": 0.413635790348053
+      },
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.3923053741455078
+      },
+      {
+        "matched_video": "if __name__main for python .mp4",
+        "score": 0.3867681324481964
+      }
+    ]
+  },
+  {
+    "input_video": "python_api_requests.mp4",
+    "top_matches": [
+      {
+        "matched_video": "FastAPI.mp4",
+        "score": 0.5705177783966064
+      },
+      {
+        "matched_video": "python_list_comprehensions.mp4",
+        "score": 0.5146311521530151
+      },
+      {
+        "matched_video": "js_fetch_api.mp4",
+        "score": 0.42407751083374023
+      },
+      {
+        "matched_video": "for loop.mp4",
+        "score": 0.4098268449306488
+      },
+      {
+        "matched_video": "python_oop.mp4",
+        "score": 0.3969495892524719
+      }
+    ]
+  },
+  {
+    "input_video": "python_decorators.mp4",
+    "top_matches": [
+      {
+        "matched_video": "lambda function.mp4",
+        "score": 0.4457889497280121
+      },
+      {
+        "matched_video": "recursion.mp4",
+        "score": 0.3862225413322449
+      },
+      {
+        "matched_video": "if __name__main for python .mp4",
+        "score": 0.3622928857803345
+      },
+      {
+        "matched_video": "js_closures.mp4",
+        "score": 0.33857083320617676
+      },
+      {
+        "matched_video": "python_list_comprehensions.mp4",
+        "score": 0.3238431215286255
+      }
+    ]
+  },
+  {
+    "input_video": "python_dictionary.mp4",
+    "top_matches": [
+      {
+        "matched_video": "python_list_comprehensions.mp4",
+        "score": 0.3997633457183838
+      },
+      {
+        "matched_video": "for loop.mp4",
+        "score": 0.3555445671081543
+      },
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.31513679027557373
+      },
+      {
+        "matched_video": "python datatypes.mp4",
+        "score": 0.2927783727645874
+      },
+      {
+        "matched_video": "lambda function.mp4",
+        "score": 0.27895480394363403
+      }
+    ]
+  },
+  {
+    "input_video": "python_files.mp4",
+    "top_matches": [
+      {
+        "matched_video": "exception_handling_python.mp4",
+        "score": 0.45266619324684143
+      },
+      {
+        "matched_video": "if __name__main for python .mp4",
+        "score": 0.3954138159751892
+      },
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.3867766559123993
+      },
+      {
+        "matched_video": "java_constructur.mp4",
+        "score": 0.3749139904975891
+      },
+      {
+        "matched_video": "java_files.mp4",
+        "score": 0.3476317822933197
+      }
+    ]
+  },
+  {
+    "input_video": "python_flask_intro.mp4",
+    "top_matches": [
+      {
+        "matched_video": "module package library.mp4",
+        "score": 0.3413388729095459
+      },
+      {
+        "matched_video": "FastAPI.mp4",
+        "score": 0.3379947543144226
+      },
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.29071223735809326
+      },
+      {
+        "matched_video": "if __name__main for python .mp4",
+        "score": 0.2672814726829529
+      },
+      {
+        "matched_video": "python datatypes.mp4",
+        "score": 0.25019973516464233
+      }
+    ]
+  },
+  {
+    "input_video": "python_functions.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_star_pattern_printing.mp4",
+        "score": 0.3397771716117859
+      },
+      {
+        "matched_video": "c_multiplication_exercise.mp4",
+        "score": 0.3397771716117859
+      },
+      {
+        "matched_video": "c_ascii_animation.mp4",
+        "score": 0.3397771716117859
+      },
+      {
+        "matched_video": "html_images_media.mp4",
+        "score": 0.26504138112068176
+      },
+      {
+        "matched_video": "c_do_while_loop.mp4",
+        "score": 0.23343566060066223
+      }
+    ]
+  },
+  {
+    "input_video": "python_list_comprehensions.mp4",
+    "top_matches": [
+      {
+        "matched_video": "for loop.mp4",
+        "score": 0.6199760437011719
+      },
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.5146311521530151
+      },
+      {
+        "matched_video": "lambda function.mp4",
+        "score": 0.41002753376960754
+      },
+      {
+        "matched_video": "python_dictionary.mp4",
+        "score": 0.3997633457183838
+      },
+      {
+        "matched_video": "if __name__main for python .mp4",
+        "score": 0.39037466049194336
+      }
+    ]
+  },
+  {
+    "input_video": "python_loops_intro.mp4",
+    "top_matches": [
+      {
+        "matched_video": "c_pattern_example.mp4",
+        "score": 0.2828304171562195
+      },
+      {
+        "matched_video": "c_hello_world.mp4",
+        "score": 0.2828304171562195
+      },
+      {
+        "matched_video": "html_basics.mp4",
+        "score": 0.26229000091552734
+      },
+      {
+        "matched_video": "html_entities_short.mp4",
+        "score": 0.22213909029960632
+      },
+      {
+        "matched_video": "for loop.mp4",
+        "score": 0.2085752785205841
+      }
+    ]
+  },
+  {
+    "input_video": "python_oop.mp4",
+    "top_matches": [
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.3969495892524719
+      },
+      {
+        "matched_video": "python_list_comprehensions.mp4",
+        "score": 0.3797423243522644
+      },
+      {
+        "matched_video": "python datatypes.mp4",
+        "score": 0.3394758701324463
+      },
+      {
+        "matched_video": "python_turtle.mp4",
+        "score": 0.300546795129776
+      },
+      {
+        "matched_video": "lambda function.mp4",
+        "score": 0.2975989580154419
+      }
+    ]
+  },
+  {
+    "input_video": "python_operators.mp4",
+    "top_matches": [
+      {
+        "matched_video": "for loop.mp4",
+        "score": 0.34974655508995056
+      },
+      {
+        "matched_video": "js_bitwise_operators.mp4",
+        "score": 0.3294773995876312
+      },
+      {
+        "matched_video": "python_list_comprehensions.mp4",
+        "score": 0.2503286302089691
+      },
+      {
+        "matched_video": "recusive_function_java.mp4",
+        "score": 0.232902392745018
+      },
+      {
+        "matched_video": "lamda_java.mp4",
+        "score": 0.2288559079170227
+      }
+    ]
+  },
+  {
+    "input_video": "python_turtle.mp4",
+    "top_matches": [
+      {
+        "matched_video": "python_api_requests.mp4",
+        "score": 0.315369188785553
+      },
+      {
+        "matched_video": "python_oop.mp4",
+        "score": 0.300546795129776
+      },
+      {
+        "matched_video": "python_list_comprehensions.mp4",
+        "score": 0.2643184959888458
+      },
+      {
+        "matched_video": "python datatypes.mp4",
+        "score": 0.25972723960876465
+      },
+      {
+        "matched_video": "html_canvas.mp4",
+        "score": 0.2594984769821167
+      }
+    ]
+  },
+  {
+    "input_video": "recursion.mp4",
+    "top_matches": [
+      {
+        "matched_video": "recusive_function_java.mp4",
+        "score": 0.6273022294044495
+      },
+      {
+        "matched_video": "lambda function.mp4",
+        "score": 0.4564032256603241
+      },
+      {
+        "matched_video": "if __name__main for python .mp4",
+        "score": 0.4034048318862915
+      },
+      {
+        "matched_video": "python_decorators.mp4",
+        "score": 0.3862225413322449
+      },
+      {
+        "matched_video": "python_list_comprehensions.mp4",
+        "score": 0.376462459564209
+      }
+    ]
+  },
+  {
+    "input_video": "recusive_function_java.mp4",
+    "top_matches": [
+      {
+        "matched_video": "recursion.mp4",
+        "score": 0.6273022294044495
+      },
+      {
+        "matched_video": "lambda function.mp4",
+        "score": 0.46333742141723633
+      },
+      {
+        "matched_video": "c_realloc_usage.mp4",
+        "score": 0.40845829248428345
+      },
+      {
+        "matched_video": "c_scanf_input.mp4",
+        "score": 0.40841731429100037
+      },
+      {
+        "matched_video": "c_arrays_usage.mp4",
+        "score": 0.38699769973754883
+      }
+    ]
+  },
+  {
+    "input_video": "string_functions_ java.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_operators.mp4",
+        "score": 0.4388270080089569
+      },
+      {
+        "matched_video": "java_basics.mp4",
+        "score": 0.3693559169769287
+      },
+      {
+        "matched_video": "lamda_java.mp4",
+        "score": 0.3584338426589966
+      },
+      {
+        "matched_video": "java_files.mp4",
+        "score": 0.33889836072921753
+      },
+      {
+        "matched_video": "if __name__main for python .mp4",
+        "score": 0.3341265022754669
+      }
+    ]
+  },
+  {
+    "input_video": "string_java.mp4",
+    "top_matches": [
+      {
+        "matched_video": "java_variable.mp4",
+        "score": 0.3860462009906769
+      },
+      {
+        "matched_video": "java_arrays.mp4",
+        "score": 0.38345977663993835
+      },
+      {
+        "matched_video": "js_variables.mp4",
+        "score": 0.37546443939208984
+      },
+      {
+        "matched_video": "js_template_literals.mp4",
+        "score": 0.34645888209342957
+      },
+      {
+        "matched_video": "js_hoisting.mp4",
+        "score": 0.31928929686546326
+      }
+    ]
+  },
+  {
+    "input_video": "type_casting.mp4",
+    "top_matches": [
+      {
+        "matched_video": "python datatypes.mp4",
+        "score": 0.699982762336731
+      },
+      {
+        "matched_video": "java_typecasting.mp4",
+        "score": 0.5253421664237976
+      },
+      {
+        "matched_video": "java_datatypes.mp4",
+        "score": 0.44698840379714966
+      },
+      {
+        "matched_video": "lambda function.mp4",
+        "score": 0.4021589457988739
+      },
+      {
+        "matched_video": "java_arrays.mp4",
+        "score": 0.3672274053096771
+      }
+    ]
+  }
+]

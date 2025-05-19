@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Video Gallery</title>
+    <style>
+        .card { display: inline-block; width: 200px; margin: 10px; border: 1px solid #ccc; padding: 10px; text-align: center; }
+        .card:hover { background-color: #f0f0f0; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>🎥 Select a Video</h1>
+    {% for video in videos %}
+        <div class="card" onclick="window.location.href='/video/{{ video }}'">
+            <p>{{ video }}</p>
+            <video width="180" height="100" src="{{ url_for('static', filename='videos/' ~ video) }}" muted></video>
+        </div>
+    {% endfor %}
+</body>
+</html>
