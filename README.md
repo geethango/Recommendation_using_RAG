@@ -31,3 +31,30 @@ An end-to-end AI-powered system that recommends and retrieves educational video 
 ```bash
 git clone https://github.com/yourusername/recommendating-using-RAG.git
 cd recommendating-using-RAG
+```
+
+### 2. Run Locally
+
+Create and activate a virtual environment, then install dependencies:
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+pip install -r requirements.txt
+```
+
+Run the Flask app:
+
+```bash
+export FLASK_APP=app.py
+export FLASK_ENV=development
+flask run
+```
+
+### 3. GitHub Deployment
+
+A GitHub Actions workflow is included to automatically deploy the Flask app on pushes to the main branch.
+
+- The workflow installs dependencies and runs the Flask app.
+- You can customize the workflow in `.github/workflows/deploy.yml`.
+
