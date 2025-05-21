@@ -34,7 +34,7 @@ Answer:
 
         # Load LLaMA model
         self.llm = LlamaCpp(
-            model_path=r"D:\audio_rec\rag_vector\models\tinyllama-1.1b-chat-v1.0.Q4_0.gguf",
+            model_path=r"D:\audio_rec1\rag_vector\models\tinyllama-1.1b-chat-v1.0.Q4_0.gguf",
             temperature=0.5,
             max_tokens=512,
             top_p=1,

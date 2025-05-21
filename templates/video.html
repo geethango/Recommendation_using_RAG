@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ video_name }}</title>
+    <style>
+        .card { display: inline-block; width: 200px; margin: 10px; border: 1px solid #ccc; padding: 10px; text-align: center; }
+        .card:hover { background-color: #f0f0f0; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h2>🎬 Now Playing: {{ video_name }}</h2>
+    <video width="640" height="360" controls autoplay>
+        <source src="{{ url_for('static', filename='videos/' ~ video_name) }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <h3>🔗 Recommended Videos</h3>
+    {% for rec in recommendations %}
+        <div class="card" onclick="window.location.href='/video/{{ rec.matched_video }}'">
+            <p>{{ rec.matched_video }}</p>
+            <video width="180" height="100" src="{{ url_for('static', filename='videos/' ~ rec.matched_video) }}" muted></video>
+            <p>Score: {{ "%.2f"|format(rec.score) }}</p>
+        </div>
+    {% endfor %}
+    <br><a href="/">⬅ Back to Gallery</a>
+   <div id="chat-box">
+    <h4>💬 Ask a Question</h4>
+    <input type="text" id="userQuery" placeholder="Ask">
+    <button id="askBtn" onclick="askRAG()">Ask</button>
+    <div id="ragResponse"></div>
+</div>
+<script>
+
+function askRAG() {
+    const query = document.getElementById("userQuery").value;
+    document.getElementById("ragResponse").innerHTML = "⏳ Thinking...";
+
+    fetch("http://localhost:8000/chat", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ query: query })
+    })
+    .then(response => response.json())
+    .then(data => {
+        const answer = data.answer || "No answer found.";
+        const sources = data.sources || [];
+
+        const formattedSources = sources.length
+            ? `<br><strong>Sources:</strong> ` + sources.map(
+                s => `<a href="/video/${s}" target="_blank">${s}</a>`
+              ).join(", ")
+            : "";
+
+        document.getElementById("ragResponse").innerHTML = answer + formattedSources;
+    })
+    .catch(error => {
+        document.getElementById("ragResponse").innerHTML = "❌ Error: " + error;
+    });
+}
+</script>
+
+
+   
+</body>
+ <style>
+        .card {
+            display: inline-block;
+            width: 200px;
+            margin: 10px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
+        .card:hover {
+            background-color: #f0f0f0;
+            cursor: pointer;
+        }
+
+        /* ✅ New Chat Box Styling */
+        #chat-box {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 320px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            padding: 15px;
+            font-family: sans-serif;
+        }
+
+        #chat-box h4 {
+            margin: 0 0 10px;
+        }
+
+        #userQuery {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 8px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        #askBtn {
+            width: 100%;
+            padding: 8px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        #askBtn:hover {
+            background-color: #0056b3;
+        }
+
+        #ragResponse {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #333;
+        }
+
+        #ragResponse a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        #ragResponse a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</html>
