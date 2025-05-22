@@ -1,5 +1,5 @@
 openai-whisper
-flask
+Flask==2.2.5
 pymongo
 langchain
 transformers
